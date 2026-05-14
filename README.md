@@ -1,20 +1,25 @@
-Oii! Eu sou o Pedro 👋
+# Oii! Eu sou o Pedro 👋
 
-<div align="center">
-
-<a href="https://github.com/pedromts2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromts2&show_icons=true&theme=tokyonight&hide_border=false&border_color=ff69b4&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromts2&layout=compact&theme=tokyonight&hide_border=false&border_color=ff69b4&cache_seconds=1800"/>
-</a>
-
-</div>
+Estudante de programação, aprendendo e construindo todo dia.
 
 ---
 
-<div align="center">
+## 🛠️ Linguagens que uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+---
+
+## 📊 Minhas estatísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedromts2&theme=tokyonight&border_color=ff69b4)](https://git.io/streak-stats)
+
+---
+
+## 🌱 Atualmente aprendendo
+
+- 🐍 Python — lógica e automações
+- 🎨 HTML + CSS — interfaces e layouts
+- 💻 Git e GitHub — versionamento
