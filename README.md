@@ -15,11 +15,3 @@ Estudante de programação, aprendendo e construindo todo dia.
 ## 📊 Minhas estatísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedromts2&theme=tokyonight&border_color=ff69b4)](https://git.io/streak-stats)
-
----
-
-## 🌱 Atualmente aprendendo
-
-- 🐍 Python — lógica e automações
-- 🎨 HTML + CSS — interfaces e layouts
-- 💻 Git e GitHub — versionamento
